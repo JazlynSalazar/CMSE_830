@@ -110,6 +110,7 @@ streamline run app.py
 - svm_model.pkl : Trained machine learning model
 - notebooks/ : Analysis notebook
 - images/ : Visualizations and screenshots
+- presentation/ : Presentation materials
 
 ## Limitations
 - Only color-based image features were used
