@@ -130,6 +130,7 @@ Potential improvements include:
 
 ## Repository Structure
 
+```text
 Midterm_Project/
 │
 ├── app.py
@@ -150,6 +151,7 @@ Midterm_Project/
 │
 └── presentation/
     └── Cherry_Leaf_Disease_Midterm.pdf
+```
 
 ---
 
