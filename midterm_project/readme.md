@@ -176,6 +176,7 @@ Contains screenshots and visual assets used in documentation,
 presentations, and model evaluation.
 
 ### presentation/
+
 Contains presentation materials for the midterm and final project.
 ---
 
