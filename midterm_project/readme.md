@@ -16,7 +16,7 @@ Source:
 PlantVillage Dataset
 
 The dataset contains: 
-- 1,096 total cherry leaf images
+- 1,906 total cherry leaf images
 - 854 Healthy leaf images
 - 1,052 Powdery Mildew leaf images
 
@@ -156,28 +156,35 @@ Midterm_Project/
 ## Project Files
 
 ### app.py
+
 Main Streamlit application that provides dataset exploration,
 feature analysis, model evaluation, and live disease prediction.
 
 ### cherry_features.csv
+
 Processed dataset containing extracted image features used for
 exploratory analysis and machine learning model development.
 
 ### svm_model.pkl
+
 Final trained Support Vector Machine (SVM) model used by the
 Streamlit application.
 
 ### notebooks/
+
 Contains the primary project notebook documenting dataset
 exploration, feature engineering, model development, and evaluation.
 
 ### images/
+
 Contains screenshots and visual assets used in documentation,
 presentations, and model evaluation.
+
 
 ### presentation/
 
 Contains presentation materials for the midterm and final project.
+
 ---
 
 ## AI Use Statement
