@@ -128,5 +128,30 @@ Potential improvements include:
 
 ---
 
+## Repository Structure
+
+Midterm_Project/
+│
+├── app.py
+├── cherry_features.csv
+├── svm_model.pkl
+├── requirements.txt
+├── README.md
+│
+├── images/
+│   ├── confusion_matrix.png
+│   ├── overview_page.png
+│   ├── feature_analysis.png
+│   ├── model_performance.png
+│   └── live_prediction.png
+│
+├── notebooks/
+│   └── Salazar_CMSE830_midterm_project.ipynb
+│
+└── presentation/
+    └── Cherry_Leaf_Disease_Midterm.pdf
+
+---
+
 ## AI Use Statement
 Microsoft Copilot was used as a coding assistant for Streamlit implementation and debugging. All analyses, interpretations, project decisions, model evaluation, and final project content were reviewed and validated. 
