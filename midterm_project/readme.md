@@ -141,6 +141,7 @@ Midterm_Project/
 ├── README.md
 │
 ├── images/
+│   ├── README.md
 │   ├── confusion_matrix.png
 │   ├── overview_page.png
 │   ├── feature_analysis.png
@@ -148,11 +149,13 @@ Midterm_Project/
 │   └── live_prediction.png
 │
 ├── notebooks/
+│   ├── README.md
 │   └── Salazar_CMSE830_midterm_project.ipynb
 │
 └── presentation/
-    └── Cherry_Leaf_Disease_Midterm.pdf
-```
+    ├── README.md
+    └── Salazar_CMSE830_Midterm.pptx
+
 ---
 ## Project Files
 
