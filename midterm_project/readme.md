@@ -156,6 +156,7 @@ Midterm_Project/
     ├── README.md
     └── Salazar_CMSE830_Midterm.pptx
 
+```
 ---
 ## Project Files
 
