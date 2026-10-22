@@ -4,8 +4,6 @@ This folder contains presentation files associated with the midterm project.
 
 ## Contents
 
-### Cherry_Leaf_Disease_Midterm.pdf
-
 Midterm presentation including:
 
 - Project motivation
